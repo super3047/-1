@@ -10,7 +10,8 @@
 1. 在JDK官网下载JDK。
 2. 设置环境变量并配置路径。
 3. 验证安装是否成功（成功时会显示下图）。  
-   ![JDK安装成功截图](images/图片1.png)
+   ![image](https://github.com/user-attachments/assets/8e1c60ca-08a9-4e98-8fc7-35a993342c67)
+
 ### Android Studio内部设置
 1. 下载Gradle和Gradle Repository依赖库。
 2. 将下载源更改为腾讯镜像源（提升下载速度并减少报错）。
